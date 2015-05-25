@@ -1,7 +1,0 @@
-setup.py
-Flask_GoogleMaps.egg-info/PKG-INFO
-Flask_GoogleMaps.egg-info/SOURCES.txt
-Flask_GoogleMaps.egg-info/dependency_links.txt
-Flask_GoogleMaps.egg-info/not-zip-safe
-Flask_GoogleMaps.egg-info/requires.txt
-Flask_GoogleMaps.egg-info/top_level.txt
