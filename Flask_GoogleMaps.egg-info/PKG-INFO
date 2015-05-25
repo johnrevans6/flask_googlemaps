@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: Flask-GoogleMaps
+Version: 1.2.0
+Summary: Small extension for Flask to make using Google Maps easy
+Home-page: https://github.com/johnrevans6/flask_googlemaps
+Author: John Evans
+Author-email: johnre@hawaii.edu
+License: MIT
+Description: # flask_googlemaps
+        
+        Custom implementation of flask_googlemaps
+        =======
+        Custom implementation of flask_googlemaps
+        
+        
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
