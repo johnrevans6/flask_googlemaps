@@ -4,12 +4,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='Flask-GoogleMaps',
-    version='1.2.0',
+    version='0.1.0',
     license='MIT',
     description='Small extension for Flask to make using Google Maps easy',
     long_description=open('README.md').read(),
     author='John Evans',
-    author_email='johnre@hawaii.edu',
+    author_email='johnre@hawaii.edu',    
     url='https://github.com/johnrevans6/flask_googlemaps',
     platforms='any',
     zip_safe=False,
@@ -24,7 +24,7 @@ setup(
         'Programming Language :: Python :: 3',
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
         'Topic :: Software Development :: Libraries :: Python Modules'
-    ],
+    ],    
     install_requires=['Flask'],
     packages=find_packages()
 )
